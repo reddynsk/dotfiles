@@ -1,0 +1,4 @@
+.DS_Store
+*.bak
+.hammerspoon/Spoons/
+lazy-lock.json
