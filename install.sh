@@ -21,6 +21,7 @@ link() {
 link "$DOTFILES/.config/aerospace"  "$HOME/.config/aerospace"
 link "$DOTFILES/.config/sketchybar" "$HOME/.config/sketchybar"
 link "$DOTFILES/.config/nvim"       "$HOME/.config/nvim"
+link "$DOTFILES/.config/borders"    "$HOME/.config/borders"
 link "$DOTFILES/.hammerspoon"       "$HOME/.hammerspoon"
 link "$DOTFILES/.wezterm.lua"       "$HOME/.wezterm.lua"
 

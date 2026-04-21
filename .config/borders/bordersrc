@@ -1,0 +1,12 @@
+#!/bin/bash
+# Catppuccin Mocha glowing borders on focused window
+options=(
+  style=round
+  width=5.0
+  hidpi=on
+  active_color=0xff89b4fa   # catppuccin blue (focused)
+  inactive_color=0xff45475a # catppuccin surface1 (unfocused)
+  background_color=0x00000000
+  blur_radius=2.0
+)
+borders "${options[@]}"
